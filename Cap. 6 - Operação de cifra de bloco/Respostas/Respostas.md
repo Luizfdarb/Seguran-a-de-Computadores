@@ -46,7 +46,7 @@ O caso de 3 loops dificulta o ataque por força bruta.
 
 **(b) Por desempenho?**
 
-Com três loops, pois permite paralelização, enquanto o de um loop os blocos esperariam mais o resultado do processamento do bloco anterior.  
+Com um loop, como todas as operações são realiadas em um único bloco, o tempo de processamento é reduzido.
 
 ![](Figura_1.png)
 
